@@ -50,15 +50,15 @@ Status: PASS
 
 ### 🔄 Inheritance - Method Overriding
 
-![Inheritance Method Overriding](screenshots/inheritance-method-overriding.png)
+![Inheritance Method Overriding](screenshots/Inheritance%20-%20Method%20Overriding%20Output.png)
+
+### 🔗 Inheritance - Parent Class Output
+
+![Inheritance Parent Class Output](screenshots/Inheritance%20-%20Parent%20Class%20Output.png)
 
 ### 🔧 Method Overloading Output
 
 ![Method Overloading Output](screenshots/method-overloading.png)
-
-### 💻 Basic Java Program Output
-
-![Basic Java Output](screenshots/basic-java-output.png)
 
 🛠️ Technologies Used
 Java
