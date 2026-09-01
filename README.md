@@ -67,7 +67,8 @@ This screenshot demonstrates inheritance using the Father and Daughter classes.
 
 ![Method Overloading Output](method-overloading.png)
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
+
 1.Java
 2.Core Java
 3.Object-Oriented Programming (OOP)
@@ -76,7 +77,8 @@ This screenshot demonstrates inheritance using the Father and Daughter classes.
 6.GitHub
 7.Command Prompt
 
-📚 Java Concepts Practiced
+##📚 Java Concepts Practiced
+
 1.Classes and Objects
 2.Methods
 3.Static Methods
