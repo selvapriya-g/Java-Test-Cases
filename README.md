@@ -43,30 +43,29 @@ Expected Result: 30
 Actual Result: 30
 **Status: PASS**
 ```
+## 📸 Test Execution Results
 
-**## 📸 Test Execution Results**
 ### 🧪 Calculator Test Case Results
 
 The calculator test cases were executed with PASS and FAIL validation.
 
 ![Calculator Test Results](screenshots/calculator-test-results.png.png)
 
-
 ### 🔄 Inheritance - Method Overriding
 
 This screenshot demonstrates method overriding using the Father and Daughter classes.
 
-![Inheritance Method Overriding](screenshots/Inheritance%20-%20Method%20Overriding%20Output.png)
+![Inheritance Method Overriding](Inheritance%20-%20Method%20Overriding%20Output)
 
 ### 🔗 Inheritance - Parent Class Output
 
 This screenshot demonstrates inheritance using the Father and Daughter classes.
 
-![Inheritance Parent Class Output](screenshots/Inheritance%20-%20Parent%20Class%20Output.png)
+![Inheritance Parent Class Output](Inheritance%20-%20Parent%20Class%20Output)
 
 ### 🔧 Method Overloading Output
 
-![Method Overloading Output](screenshots/method-overloading.png)
+![Method Overloading Output](method-overloading.png)
 
 🛠️ Technologies Used
 Java
