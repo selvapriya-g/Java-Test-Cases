@@ -34,17 +34,17 @@ The calculator test program verifies different operations such as:
 
 Test results are evaluated using expected and actual values.
 
-Example
+
+###Example
 
 ```text
-
 Test Case: Addition
 Expected Result: 30
 Actual Result: 30
-Status: PASS
+**Status: PASS**
+```
 
-```text
-
+**## 📸 Test Execution Results**
 ### 🧪 Calculator Test Case Results
 
 The calculator test cases were executed with PASS and FAIL validation.
