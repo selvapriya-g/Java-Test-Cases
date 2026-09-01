@@ -1,5 +1,5 @@
 # Java-Test-Cases
-☕ Java Test Cases & Practice Programs
+## ☕ Java Test Cases & Practice Programs
 
 A collection of Java programs and test cases created to practice **Core Java, Object-Oriented Programming, Method Overloading, Inheritance, and Basic Testing Concepts**.
 
@@ -7,7 +7,7 @@ This repository contains simple and practical Java programs developed as part of
 
 ---
 
-📌 Repository Contents
+## 📌 Repository Contents
 
 | Program | Description |
 |---|---|
@@ -23,7 +23,7 @@ This repository contains simple and practical Java programs developed as part of
 
 ---
 
-🧪 Testing
+## 🧪 Testing
 
 The calculator test program verifies different operations such as:
 
@@ -35,7 +35,7 @@ The calculator test program verifies different operations such as:
 Test results are evaluated using expected and actual values.
 
 
-###Example
+### Example
 
 ```text
 Test Case: Addition
@@ -89,7 +89,7 @@ This screenshot demonstrates inheritance using the Father and Daughter classes.
 8. Basic Test Cases
 9. Expected vs Actual Results
 
-▶️ How to Run
+## ▶️ How to Run
 1. Clone the repository
 git clone https://github.com/selvapriya-g/Java-Test-Cases.git
 2. Navigate to the project
@@ -105,22 +105,22 @@ javac Calculator.java
 javac Calculatortest.java
 java Calculatortest
 
-🎯 Purpose of This Repository
+## 🎯 Purpose of This Repository
 The main purpose of this repository is to strengthen my Java programming and software testing skills through hands-on practice.
 It also serves as a portfolio of my Java learning journey and practical coding exercises.
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 Add more Java test cases
 Add positive and negative test scenarios
 Improve PASS/FAIL validation
 Add JUnit test cases
 Organize programs into separate folders
 Add automated testing
-⭐ Acknowledgement
+## ⭐ Acknowledgement
 
 This repository was created as part of my continuous learning and practice in Java Programming and Software Testing.
 
 
-📌 Test Completed By
+## 📌 Test Completed By
 
 Selvapriya G
