@@ -42,6 +42,26 @@ Expected Result: 30
 Actual Result: 30
 Status: PASS
 
+## 📸 Test Execution Results
+
+### 🧪 Calculator Test Case Results
+
+The calculator test cases were executed successfully with PASS and FAIL validation.
+
+![Calculator Test Results](screenshots/calculator-test-results.png)
+
+### 🔗 Inheritance - Parent Class Output
+
+This screenshot demonstrates inheritance using the Father and Daughter classes.
+
+![Inheritance Parent Output](screenshots/inheritance-parent-output.png)
+
+### 🔄 Inheritance - Method Overriding
+
+This screenshot demonstrates method overriding in the Daughter class.
+
+![Inheritance Method Overriding](screenshots/inheritance-method-overriding.png)
+
 🛠️ Technologies Used
 Java
 Core Java
