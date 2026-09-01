@@ -51,7 +51,7 @@ The calculator test cases were executed with PASS and FAIL validation.
 
 ![Calculator Test Results](screenshots/calculator-test-results.png.png)
 
-### 🔄 Inheritance - Method Overriding
+### 🔄 Inheritance - Parent and child Class Output
 
 This screenshot demonstrates method overriding using the Father and Daughter classes.
 
