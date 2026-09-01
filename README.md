@@ -67,27 +67,27 @@ This screenshot demonstrates inheritance using the Father and Daughter classes.
 
 ![Method Overloading Output](method-overloading.png)
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-1.Java
-2.Core Java
-3.Object-Oriented Programming (OOP)
-4.Java Testing Concepts
-5.Git
-6.GitHub
-7.Command Prompt
+1. Java
+2. Core Java
+3. Object-Oriented Programming (OOP)
+4. Java Testing Concepts
+5. Git
+6. GitHub
+7. Command Prompt
 
-##📚 Java Concepts Practiced
+## 📚 Java Concepts Practiced
 
-1.Classes and Objects
-2.Methods
-3.Static Methods
-4.Method Overloading
-5.Inheritance
-6.Method Overriding
-7.Conditional Statements
-8.Basic Test Cases
-9.Expected vs Actual Results
+1. Classes and Objects
+2. Methods
+3. Static Methods
+4. Method Overloading
+5. Inheritance
+6. Method Overriding
+7. Conditional Statements
+8. Basic Test Cases
+9. Expected vs Actual Results
 
 ▶️ How to Run
 1. Clone the repository
