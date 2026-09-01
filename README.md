@@ -93,25 +93,10 @@ Add automated testing
 
 This repository was created as part of my continuous learning and practice in Java Programming and Software Testing.
 
+
 📌 Test Completed By
 
 Selvapriya G
 
 
-**Ippo GitHub-la update panna**
 
-Un `java-project` folder-la CMD open panni:
-
-```cmd
-notepad README.md
-
-Existing README open aagum. Above content full-ah paste panni Save → Close.
-
-Then:
-
-git add README.md
-git commit -m "Updated professional README"
-
-Finally:
-
-git push
