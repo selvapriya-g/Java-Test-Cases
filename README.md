@@ -34,25 +34,32 @@ The calculator test program verifies different operations such as:
 
 Test results are evaluated using expected and actual values.
 
- Example
+Example
 
 ```text
+
 Test Case: Addition
 Expected Result: 30
 Actual Result: 30
 Status: PASS
 
-## 📸 Test Execution Results
+```text
 
 ### 🧪 Calculator Test Case Results
+
+The calculator test cases were executed with PASS and FAIL validation.
 
 ![Calculator Test Results](screenshots/calculator-test-results.png)
 
 ### 🔄 Inheritance - Method Overriding
 
+This screenshot demonstrates method overriding using the Father and Daughter classes.
+
 ![Inheritance Method Overriding](screenshots/Inheritance%20-%20Method%20Overriding%20Output.png)
 
 ### 🔗 Inheritance - Parent Class Output
+
+This screenshot demonstrates inheritance using the Father and Daughter classes.
 
 ![Inheritance Parent Class Output](screenshots/Inheritance%20-%20Parent%20Class%20Output.png)
 
