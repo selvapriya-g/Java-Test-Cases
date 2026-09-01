@@ -49,7 +49,8 @@ Actual Result: 30
 
 The calculator test cases were executed with PASS and FAIL validation.
 
-![Calculator Test Results](screenshots/calculator-test-results.png)
+![Calculator Test Results](screenshots/calculator-test-results.png.png)
+
 
 ### 🔄 Inheritance - Method Overriding
 
