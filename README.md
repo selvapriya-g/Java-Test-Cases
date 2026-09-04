@@ -1,5 +1,5 @@
 # Java-Test-Cases
-## ☕ Java Test Cases & Practice Programs
+## Java Test Cases & Practice Programs
 
 A collection of Java programs and test cases created to practice **Core Java, Object-Oriented Programming, Method Overloading, Inheritance, and Basic Testing Concepts**.
 
@@ -7,7 +7,7 @@ This repository contains simple and practical Java programs developed as part of
 
 ---
 
-## 📌 Repository Contents
+## Repository Contents
 
 | Program | Description |
 |---|---|
@@ -23,7 +23,7 @@ This repository contains simple and practical Java programs developed as part of
 
 ---
 
-## 🧪 Testing
+## Testing
 
 The calculator test program verifies different operations such as:
 
@@ -43,21 +43,21 @@ Expected Result: 30
 Actual Result: 30
 **Status: PASS**
 ```
-## 📸 Test Execution Results
+## Test Execution Results
 
-### 🧪 Calculator Test Case Results
+###  Calculator Test Case Results
 
 The calculator test cases were executed with PASS and FAIL validation.
 
 ![Calculator Test Results](screenshots/calculator-test-results.png.png)
 
-### 🔄 Inheritance - Parent and child Class Output
+### Inheritance - Parent and child Class Output
 
 This screenshot demonstrates method overriding using the Father and Daughter classes.
 
 ![Inheritance Method Overriding](Inheritance%20-%20Method%20Overriding%20Output)
 
-### 🔗 Inheritance - Parent Class Output
+### Inheritance - Parent Class Output
 
 This screenshot demonstrates inheritance using the Father and Daughter classes.
 
@@ -67,7 +67,7 @@ This screenshot demonstrates inheritance using the Father and Daughter classes.
 
 ![Method Overloading Output](method-overloading.png)
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 1. Java
 2. Core Java
@@ -77,7 +77,7 @@ This screenshot demonstrates inheritance using the Father and Daughter classes.
 6. GitHub
 7. Command Prompt
 
-## 📚 Java Concepts Practiced
+## Java Concepts Practiced
 
 1. Classes and Objects
 2. Methods
@@ -89,7 +89,7 @@ This screenshot demonstrates inheritance using the Father and Daughter classes.
 8. Basic Test Cases
 9. Expected vs Actual Results
 
-## ▶️ How to Run
+## How to Run
 1. Clone the repository
 git clone https://github.com/selvapriya-g/Java-Test-Cases.git
 2. Navigate to the project
@@ -105,22 +105,22 @@ javac Calculator.java
 javac Calculatortest.java
 java Calculatortest
 
-## 🎯 Purpose of This Repository
+## Purpose of This Repository
 The main purpose of this repository is to strengthen my Java programming and software testing skills through hands-on practice.
 It also serves as a portfolio of my Java learning journey and practical coding exercises.
 
-## 🚀 Future Improvements
+## Future Improvements
 Add more Java test cases
 Add positive and negative test scenarios
 Improve PASS/FAIL validation
 Add JUnit test cases
 Organize programs into separate folders
 Add automated testing
-## ⭐ Acknowledgement
+##  Acknowledgement
 
 This repository was created as part of my continuous learning and practice in Java Programming and Software Testing.
 
 
-## 📌 Test Completed By
+## Test Completed By
 
 Selvapriya G
